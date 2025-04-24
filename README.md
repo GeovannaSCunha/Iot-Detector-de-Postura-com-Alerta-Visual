@@ -29,7 +29,8 @@ Um projeto simples que monitora a postura da cabeça usando MediaPipe e Arduino,
     - Simulador de porta serial.
 
 **Circuito Arduino (SimuIde)**
-- Conecte os LEDs aos pinos digitais:
+Exporte o arquivo (CIRC1.0CP2.sim1)
+- Foram conectados os LEDs aos pinos digitais:
     - LED Verde: Pino 12 (+ resistor, terra).
     - LED Vermelho: Pino 11 (+ resistor, terra).
     - Simulador de Porta Serial (TX, RX).
