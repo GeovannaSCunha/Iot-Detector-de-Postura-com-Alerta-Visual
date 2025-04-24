@@ -1,3 +1,6 @@
+## Desenvolvedores
+- Geovanna Silva Cunha - rm97736
+- Victor Camargo Maciel - rm98384
 
 # Detector de Postura com Alerta Visual
 
