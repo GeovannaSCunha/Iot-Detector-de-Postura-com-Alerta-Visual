@@ -15,7 +15,7 @@ face_mesh = mp_face_mesh.FaceMesh(min_detection_confidence=0.5, min_tracking_con
 LIMIAR_INCLINACAO = 0.08  # (0.05 a 0.15)
 POSTURA_RUIM_TEMPO = 0    # Contador de tempo em postura ruim
 
-cap = cv2.VideoCapture(0)  # Webcam ou video gravado .mp4
+cap = cv2.VideoCapture(0)  # Webcam (0) ou caminho do video gravado "video.mp4"
 
 while True:
     ret, frame = cap.read()
